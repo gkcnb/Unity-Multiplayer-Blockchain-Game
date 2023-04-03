@@ -1,5 +1,7 @@
 # Unity-Multiplayer-Blockchain-Game
-Learn & Create an online multiplayer game in Unity and integrate NFTs using the NEAR blockchain.
+Learn from https://morganpage.teachable.com/courses/unity-multiplayer-blockchain-game-course/lectures/43860785
+
+Create an online multiplayer game in Unity and integrate NFTs using the NEAR blockchain.
 
 What you’ll learn:
 - Multiplayer networking using Fish-Net
