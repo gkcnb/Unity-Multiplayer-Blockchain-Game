@@ -3,7 +3,6 @@ Learn from https://morganpage.teachable.com/courses/unity-multiplayer-blockchain
 
 Create an online multiplayer game in Unity and integrate NFTs using the NEAR blockchain.
 
-What you’ll learn:
 - Multiplayer networking using Fish-Net
 - Remote Procedure Calls, Network Animations, Ownership, Network Instantiation
 - Blockchain integration using the NEAR blockchain
